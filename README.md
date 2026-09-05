@@ -12,18 +12,6 @@ Unlike conventional models that rely on speculative assets or stagnant funding, 
 Announcing the 101DAO Sustainable Development Award+ 4
 Core Architectural Pillars
 
-    Proof of Philanthropy (SDA Issuance): Contributions directed toward verified SDG-aligned causes issue Sustainable Development Awards (SDAs) at a standardized rate. These tokens serve as the functional catalyst within the ecosystem rather than speculative currency.  
-    Write a 101Dao white paper on on using Sustainable...
-
-    Proof of Production (PoP) Cycle: SDAs act as operational licenses that require verification through IoT telemetry, smart meters, or digital twin presence systems. Tokens only unlock full value or convert into Sustainable Development Rewards (SDRs) when physical milestones—such as net-negative carbon capture, localized clean energy production, or water quality restoration—are cryptographically proven.  
-    Announcing the 101DAO Sustainable Development Award+ 1
-
-    Digital Twin & AI Integration: The ecosystem relies on high-resolution 4D/5D digital twins and edge AI pipelines to ingest live environmental telemetry. This transforms static historical data archives into dynamic, predictive intelligence networks capable of guiding municipal climate resilience and corporate decarbonization.  
-    Write a 101Dao white paper on on using Sustainable...+ 1
-
-    Decentralized Scale & Mainnet Transition: Projects utilize private, offline sidechains and mesh network architectures during initial development, transitioning validated proofs onto mainnet infrastructure to function as robust long-term stores of value.  
-    Announcing the 101DAO Sustainable Development Award+ 1
-
 Ecosystem Impact & Roadmap
 
 The 101DAO awards empower pioneers—such as sustainable aquaculture innovators, independent community networks, and environmental benefit corporations—to achieve aggressive net-negative carbon targets and secure regional food and water sovereignty. By replacing subjective governance with automated, oracle-driven verification, this repository provides the open-source codebases, smart contracts, and data integration pipelines required to scale decentralized environmental accountability worldwide.  
